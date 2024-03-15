@@ -12,3 +12,4 @@ Resistors (10k) <br />
 Jumper Wires <br />
 Nylon Fishing Line <br />
 
+https://www.youtube.com/shorts/Dp9vU_Ha7bA
